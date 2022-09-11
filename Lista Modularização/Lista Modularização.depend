@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655248253 source:c:\users\arthu\documents\estudos\c\lista modularização\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
